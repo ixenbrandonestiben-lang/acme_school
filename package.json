@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.10",
+    "dotenv": "^18.0.5",
+    "inquirer": "^8.2.6",
+    "mysql2": "^3.24.5"
+  },
+  "name": "acme_school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Estiben Ixen",
+  "license": "ISC"
+}
